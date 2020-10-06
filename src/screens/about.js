@@ -18,7 +18,7 @@ class About extends Component {
                   <div className="row">
                     <div className="col-lg-5 col-md-12 col-sm-12 content-column">
                       <div className="content-box">
-                        <h1>About Us</h1>
+                        <h1>About Us page</h1>
                         <p>Reach out to the world’s most reliable IT services.</p>
                       </div>
                     </div>
